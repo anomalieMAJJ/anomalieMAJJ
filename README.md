@@ -5,13 +5,12 @@
   - Advent of code 2023 : My goal is to do the challenge before the 2024 version appears, aka before the end of the year
 
 #### 🌱 Currently learning… 
-##### Programming languages
+  ##### Programming languages
    - C : in one of my bachelor's class
    - C# : in order to be able to use Unity for the Concours Ubisoft
    - Python : on my own because I like the language
-##### Cybersecurity concepts
+  ##### Cybersecurity concepts
   - Coursera : Cybersecurity for everyone
-  - TryHackMe : Pre Security path
   - Learning through CTF here and there (and figuring out how to best write and display my writeups)
 
 <!--
