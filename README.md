@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<p align="center"><img src="/GitHub_banner.png" height="200"></p>
 <!--
 **anomalieMAJJ/anomalieMAJJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
