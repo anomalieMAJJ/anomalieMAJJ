@@ -12,6 +12,7 @@
 ##### &nbsp;&nbsp;&nbsp;&nbsp;Cybersecurity concepts
   - Coursera : **Cybersecurity for everyone**
   - Learning through **CTF** here and there (and figuring out how to best write and display my writeups)
+  - UQÀM course INF4471 : **Introduction to cybersecurity**
 
 <!--
 **anomalieMAJJ/anomalieMAJJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
