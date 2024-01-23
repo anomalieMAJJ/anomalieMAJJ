@@ -5,13 +5,13 @@
   - Advent of code 2023 : My goal is to do the challenge before the 2024 version appears, aka before the end of the year
 
 #### 🌱 Currently learning… 
-  ##### Programming languages
-   - C : in one of my bachelor's class
-   - C# : in order to be able to use Unity for the Concours Ubisoft
-   - Python : on my own because I like the language
-  ##### Cybersecurity concepts
-  - Coursera : Cybersecurity for everyone
-  - Learning through CTF here and there (and figuring out how to best write and display my writeups)
+##### &nbsp;&nbsp;&nbsp;&nbsp;Programming languages
+   - **C** : in one of my bachelor's class
+   - **C#** : in order to be able to use Unity for the Concours Ubisoft
+   - **Python** : on my own because I like the language
+##### &nbsp;&nbsp;&nbsp;&nbsp;Cybersecurity concepts
+  - Coursera : **Cybersecurity for everyone**
+  - Learning through **CTF** here and there (and figuring out how to best write and display my writeups)
 
 <!--
 **anomalieMAJJ/anomalieMAJJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
