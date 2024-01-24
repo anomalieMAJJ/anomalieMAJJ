@@ -1,6 +1,6 @@
 <p align="center"><img src="/GitHub_banner.png" height="200"></p>
 
-#### 🔭 Currently working on...
+#### 🔭 Starting soon...
   - **Concours Ubisoft** : Our team has 10 weeks to create a video-game (10 minutes of gameplay), starting the 5th of February
   - **Advent of code** 2023 : My goal is to do the challenge before the 2024 version appears, aka before the end of the year
 
