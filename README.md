@@ -14,10 +14,4 @@
   - Learning through **CTF** here and there (and figuring out how to best write and display my writeups) 🚩
   - University course : **Introduction to cybersecurity**
 
-
-<!--
-**anomalieMAJJ/anomalieMAJJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+![Anomalie](https://github.com/anomalieMAJJ/anomalieMAJJ/assets/147209573/3959d848-871c-4d5e-bda4-b71239f2bcde)
