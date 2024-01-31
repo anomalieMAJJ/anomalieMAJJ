@@ -2,15 +2,15 @@
 
 #### 🔭 Starting soon...
   - **Concours Ubisoft** : Our team has 10 weeks to create a video-game (10 minutes of gameplay), starting the 5th of February
-  - **Advent of code** 2023 : My goal is to do the challenge before the 2024 version appears, aka before the end of the year
+  - **Advent of code** 2023 : My goal is to do the challenge (this Summer) before the 2024 version appears, aka before the end of the year
 
 #### 🌱 Currently learning… 
 ##### &nbsp;&nbsp;&nbsp;&nbsp;Programming languages
    - **C** : in one of my bachelor's class
-   - **C#** : in order to be able to use Unity for the Concours Ubisoft
+   - **C#** : for the Concours Ubisoft
    - **Python** : on my own because I like the language
 ##### &nbsp;&nbsp;&nbsp;&nbsp;Cybersecurity concepts
-  - Coursera : **Cybersecurity for everyone**
+  - Coursera : **Certificat de carrière Google - Cybersécurité**
   - Learning through **CTF** here and there (and figuring out how to best write and display my writeups) 🚩
   - University course : **Introduction to cybersecurity**
 
