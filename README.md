@@ -12,6 +12,6 @@
 ##### &nbsp;&nbsp;&nbsp;&nbsp;Cybersecurity concepts
   - Coursera : **Certificat de carrière Google - Cybersécurité**
   - Learning through **CTF** here and there (and figuring out how to best write and display my writeups) 🚩
-  - University course : **Introduction to cybersecurity**
-
-[![Anomalie](https://github.com/anomalieMAJJ/anomalieMAJJ/assets/147209573/3959d848-871c-4d5e-bda4-b71239f2bcde)](https://tryhackme.com/p/Anomalie)
+      - [CTF AGEEI](https://ctf.ageei.org/users/97)
+      - [picoCTF](https://play.picoctf.org/users/Anomalie)
+      - [TryHackMe](https://tryhackme.com/p/Anomalie)
