@@ -10,8 +10,13 @@
    - **C#** : for the Concours Ubisoft
    - **Python** : on my own because I like the language
 ##### &nbsp;&nbsp;&nbsp;&nbsp;Cybersecurity concepts
+  - UQÀM : INF4471 - **Introduction à la sécurité informatique**
   - Coursera : **Certificat de carrière Google - Cybersécurité**
   - Learning through **CTF** here and there (and figuring out how to best write and display my writeups) 🚩
       - [CTF AGEEI](https://ctf.ageei.org/users/97)
       - [picoCTF](https://play.picoctf.org/users/Anomalie)
       - [TryHackMe](https://tryhackme.com/p/Anomalie)
+#### Competitions
+ - CSGames Saguenay 2023
+ - JFFI 2023
+ - CyberSCIE Regionals 2023
