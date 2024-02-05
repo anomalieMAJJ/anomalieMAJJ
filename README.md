@@ -10,7 +10,6 @@
    - **C#** : for the Concours Ubisoft
    - **Python** : on my own because I like the language
 ##### &nbsp;&nbsp;&nbsp;&nbsp;Cybersecurity concepts
-  - UQÀM : INF4471 - **Introduction à la sécurité informatique**
   - [Coursera](https://www.coursera.org/user/a26ac77a6371e802c926004afd970852) : **Certificat de carrière Google - Cybersécurité**
   - Learning through **CTF** here and there (and figuring out how to best write and display my writeups) 🚩
       - [CTF AGEEI](https://ctf.ageei.org/users/97)
