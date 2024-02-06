@@ -8,9 +8,9 @@
  
 #### 🌱 Currently learning… 
 ##### &nbsp;&nbsp;&nbsp;&nbsp; :computer: Programming languages
-   - **C**
-   - **C#**
-   - **Python**
+   - C
+   - C#
+   - Python
 ##### &nbsp;&nbsp;&nbsp;&nbsp; :triangular_flag_on_post: Cybersecurity concepts
   - [Coursera](https://www.coursera.org/user/a26ac77a6371e802c926004afd970852) : **Certificat de carrière Google - Cybersécurité**
   - Learning through **CTF** here and there (and figuring out how to best write and display my writeups)
