@@ -8,8 +8,8 @@
  
 #### 🌱 Currently learning… 
 ##### &nbsp;&nbsp;&nbsp;&nbsp; :computer: Programming languages
-   - **C** : in one of my bachelor's class
-   - **C#** : for the Concours Ubisoft
+   - **C**
+   - **C#**
    - **Python**
 ##### &nbsp;&nbsp;&nbsp;&nbsp; :triangular_flag_on_post: Cybersecurity concepts
   - [Coursera](https://www.coursera.org/user/a26ac77a6371e802c926004afd970852) : **Certificat de carrière Google - Cybersécurité**
