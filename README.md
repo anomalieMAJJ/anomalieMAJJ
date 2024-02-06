@@ -4,7 +4,7 @@
  - Concours Ubisoft 2024
  - CSGames Saguenay 2023
  - JFFI 2023
- - CyberSCIE Regionals 2023
+ - CyberScie Regionals 2023
  
 #### 🌱 Currently learning… 
 ##### &nbsp;&nbsp;&nbsp;&nbsp; :computer: Programming languages
