@@ -1,7 +1,7 @@
 <p align="center"><img src="/GitHub_banner.png" height="200"></p>
 
 #### :sparkles: Competitions
- - **Concours Ubisoft 2024** : Our team has 10 weeks to create a video-game (10 minutes of gameplay), starting the 5th of February
+ - Concours Ubisoft 2024
  - CSGames Saguenay 2023
  - JFFI 2023
  - CyberSCIE Regionals 2023
