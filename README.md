@@ -18,8 +18,5 @@
       - [picoCTF](https://play.picoctf.org/users/Anomalie)
       - [TryHackMe](https://tryhackme.com/p/Anomalie)
 
-##### &nbsp;&nbsp;&nbsp;&nbsp; Others
-- [Microsoft Learn](https://learn.microsoft.com/en-ca/users/jessicamajeur-8176/) : Introduction to PowerShell
-
 #### 🔭 Starting soon...
   - **Advent of code** 2023 : My goal is to do the challenge (this Summer) before the 2024 version appears, aka before the end of the year
