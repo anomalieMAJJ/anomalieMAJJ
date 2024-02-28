@@ -1,7 +1,11 @@
 <p align="center"><img src="/GitHub_banner.png" height="200"></p>
 
-#### :sparkles: Competitions
+#### :sparkles: Competitions en cours ou à venir
  - Concours Ubisoft 2024
+ - @Hack hackathon 2024
+ - Northsec 2024
+   
+##### &nbsp;&nbsp;&nbsp;&nbsp; Compétitions passées
  - CSGames Saguenay 2023
  - JFFI 2023
  - CyberScie Regionals 2023
@@ -17,6 +21,3 @@
       - [CTF AGEEI](https://ctf.ageei.org/users/97)
       - [picoCTF](https://play.picoctf.org/users/Anomalie)
       - [TryHackMe](https://tryhackme.com/p/Anomalie)
-
-#### 🔭 Starting soon...
-  - **Advent of code** 2023 : My goal is to do the challenge (this Summer) before the 2024 version appears, aka before the end of the year
