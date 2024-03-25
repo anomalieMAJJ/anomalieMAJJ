@@ -24,12 +24,6 @@
 - Fun learning through games, competitions and workshops;
 - Drawing.
 
-### 🌱 Currently learning… 
-##### &nbsp;&nbsp;&nbsp;&nbsp; :computer: Programming languages
-   - Cybersecurity concepts;
-   - C programming language;
-   - Python.
-
 <div id="badges">
   <p align="center">
     <a href="https://www.linkedin.com/in/jessica-majeur"><img src="/LinkedIN.png" alt="LinkedIn Badge" height="50"></a>
