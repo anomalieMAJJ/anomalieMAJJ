@@ -1,23 +1,37 @@
-<p align="center"><img src="/GitHub_banner.png" height="200"></p>
+<p align="center">
+ <img src="/GitHub_banner.png" height="200">
+</p>
 
-#### :sparkles: Competitions en cours ou à venir
- - Concours Ubisoft 2024
- - @Hack hackathon 2024
- - Northsec 2024
-   
-##### &nbsp;&nbsp;&nbsp;&nbsp; Compétitions passées
- - CSGames Saguenay 2023
- - JFFI 2023
- - CyberScie Regionals 2023
- 
-#### 🌱 Currently learning… 
+### ☕️ About me
+- Student in Computer Science & Software Engineering at UQÀM;
+- Vice-president of [Ellecode](https://ellecode.org/);
+- Member of the student committee of the [AGEEI](https://ageei.org/);
+- Looking for an internship in cybersecurity.
+
+### ⭐️ What I do
+-  <b>Multiple hackathons :</b> @Hack, 24@CTF, ShaktiCTF, etc.
+-  <b>Multiple competitions :</b> CS Games, CyberScie Regionals, JFFI, Concours Ubisoft, etc.
+-  <b>Online learning :</b> [Coursera Google Cybersecurity Certificate](https://www.coursera.org/user/a26ac77a6371e802c926004afd970852), [CTF AGEEI](https://ctf.ageei.org/users/97), [picoCTF](https://play.picoctf.org/users/Anomalie), [TryHackMe](https://tryhackme.com/p/Anomalie), [SoloLearn](https://www.sololearn.com/en/profile/19938565), and many more.
+
+### 🗓️ Coming up: 
+-  <b>Conferences :</b> Women Techmaker Montreal, JFFI.
+-  <b>CTF :</b> 24@CTF, Northsec.
+-  <b>Compétitions :</b> JFFI.
+
+### ❤️ What I like
+- Cybersecurity;
+- Software development in Python, C, and more;
+- Fun learning through games, competitions and workshops;
+- Drawing.
+
+### 🌱 Currently learning… 
 ##### &nbsp;&nbsp;&nbsp;&nbsp; :computer: Programming languages
-   - C
-   - C#
-   - Python
-##### &nbsp;&nbsp;&nbsp;&nbsp; :triangular_flag_on_post: Cybersecurity concepts
-  - [Coursera](https://www.coursera.org/user/a26ac77a6371e802c926004afd970852) : **Certificat de carrière Google - Cybersécurité**
-  - Learning through **CTF** here and there (and figuring out how to best write and display my writeups)
-      - [CTF AGEEI](https://ctf.ageei.org/users/97)
-      - [picoCTF](https://play.picoctf.org/users/Anomalie)
-      - [TryHackMe](https://tryhackme.com/p/Anomalie)
+   - Cybersecurity concepts;
+   - C programming language;
+   - Python.
+
+<div id="badges">
+  <p align="center">
+    <a href="https://www.linkedin.com/in/jessica-majeur"><img src="/LinkedIN.png" alt="LinkedIn Badge" height="50"></a>
+  </p>
+</div>
