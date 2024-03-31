@@ -15,8 +15,7 @@
 
 ### 🗓️ Coming up: 
 -  <b>Conferences :</b> Women Techmaker Montreal, JFFI.
--  <b>CTF :</b> 24@CTF, Northsec.
--  <b>Compétitions :</b> JFFI.
+-  <b>Compétitions :</b> 24@CTF, JFFI, Northsec.
 
 ### ❤️ What I like
 - Cybersecurity;
