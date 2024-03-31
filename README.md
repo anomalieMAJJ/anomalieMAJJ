@@ -21,7 +21,7 @@
 - Cybersecurity;
 - Software development in Python, C, and more;
 - Fun learning through games, competitions and workshops;
-- Drawing.
+- Drawing and board games.
 
 <div id="badges">
   <p align="center">
