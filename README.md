@@ -11,7 +11,7 @@
 ### ⭐️ What I do
 -  <b>Multiple hackathons :</b> @Hack, 24@CTF, ShaktiCTF, etc.
 -  <b>Multiple competitions :</b> CS Games, CyberScie Regionals, JFFI, Concours Ubisoft, etc.
--  <b>Online learning :</b> [Coursera Google Cybersecurity Certificate](https://www.coursera.org/user/a26ac77a6371e802c926004afd970852), [CTF AGEEI](https://ctf.ageei.org/users/97), [picoCTF](https://play.picoctf.org/users/Anomalie), [TryHackMe](https://tryhackme.com/p/Anomalie), [SoloLearn](https://www.sololearn.com/en/profile/19938565), and many more.
+-  <b>Online learning :</b> [Coursera Google Cybersecurity Certificate](https://www.coursera.org/user/a26ac77a6371e802c926004afd970852), [picoCTF](https://play.picoctf.org/users/Anomalie), [TryHackMe](https://tryhackme.com/p/Anomalie), [SoloLearn](https://www.sololearn.com/en/profile/19938565), and many more.
 
 ### 🗓️ Coming up: 
 -  <b>Conferences :</b> Women Techmaker Montreal, JFFI.
