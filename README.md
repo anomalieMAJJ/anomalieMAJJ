@@ -21,7 +21,7 @@
 - Cybersecurity;
 - Software development in Python, C, and more;
 - Fun learning through games, competitions and workshops;
-- Drawing and board games.
+- [Drawing](https://www.deviantart.com/anomaliemajeure) and board games.
 
 <div id="badges">
   <p align="center">
