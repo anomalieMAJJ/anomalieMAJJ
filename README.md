@@ -8,13 +8,10 @@
 - Part-time SOC analyst.
 
 ### ⭐️ What I do
--  <b>Multiple hackathons :</b> @Hack, 24@CTF, ShaktiCTF, etc.
+-  <b>Multiple hackathons :</b> @Hack, 24@CTF, ShaktiCTF, JFFI, Northsec...
 -  <b>Multiple competitions :</b> CS Games, CyberScie Regionals, JFFI, Concours Ubisoft, etc.
+-  <b>Go to conferences :</b> Women Techmaker Montreal, JFFI, BSides, GoSEC, Cybereco.
 -  <b>Online learning :</b> [picoCTF](https://play.picoctf.org/users/Anomalie), [TryHackMe](https://tryhackme.com/p/Anomalie), and many more.
-
-### 🗓️ Coming up: 
--  <b>Conferences :</b> Women Techmaker Montreal, JFFI, BSides, GoSEC, Cybereco.
--  <b>Compétitions :</b> 24@CTF, @Hack, JFFI, Northsec.
 
 ### ❤️ What I like
 - Cybersecurity;
