@@ -11,7 +11,7 @@
 -  <b>Multiple hackathons :</b> @Hack, 24@CTF, ShaktiCTF, JFFI, Northsec...
 -  <b>Multiple competitions :</b> CS Games, CyberScie Regionals, JFFI, Concours Ubisoft, etc.
 -  <b>Go to conferences :</b> Women Techmaker Montreal, JFFI, BSides, GoSEC, Cybereco.
--  <b>Online learning :</b> [picoCTF](https://play.picoctf.org/users/Anomalie), [TryHackMe](https://tryhackme.com/p/Anomalie), and many more.
+-  <b>Online learning :</b> [picoCTF](https://play.picoctf.org/users/Anomalie), [TryHackMe](https://tryhackme.com/p/Anomalie), MS Learn, Coursera, and many more.
 
 ### ❤️ What I like
 - Cybersecurity;
